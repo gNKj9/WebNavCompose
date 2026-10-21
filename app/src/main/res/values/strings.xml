@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyNews</string>
+
+    <!-- Títulos das rotas -->
+    <string name="titulo_artigos">Artigos</string>
+    <string name="titulo_guardados">Guardados</string>
+    <string name="titulo_sobre">Sobre</string>
+    <string name="titulo_artigo">Artigo</string>
+
+    <!-- Ações da top bar -->
+    <string name="voltar">Voltar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="guardar">Guardar</string>
+    <string name="remover_guardado">Remover dos guardados</string>
+    <string name="partilhar">Partilhar</string>
+
+    <!-- Estados -->
+    <string name="a_carregar">A carregar notícias…</string>
+    <string name="erro_titulo">Não foi possível carregar</string>
+    <string name="tentar_novamente">Tentar novamente</string>
+    <string name="lista_vazia_titulo">Sem notícias</string>
+    <string name="lista_vazia_texto">A API respondeu, mas não trouxe nenhum artigo.</string>
+    <string name="guardados_vazio_titulo">Nenhuma notícia guardada</string>
+    <string name="guardados_vazio_texto">Abre uma notícia e toca no coração para a guardares aqui.</string>
+    <string name="artigo_indisponivel">Notícia indisponível</string>
+    <string name="artigo_indisponivel_texto">A lista ainda não está carregada. Volta atrás e tenta de novo.</string>
+    <string name="ver_artigos">Ver artigos</string>
+
+    <!-- Sobre -->
+    <string name="sobre_texto">Leitor de notícias da cadeira de PDM: a lista vem da NewsAPI por OkHttp, cada notícia abre num ecrã de detalhe com os seus dados e a página completa, e a barra inferior separa os ecrãs base.</string>
+    <string name="sobre_stack">Kotlin · Jetpack Compose · Navigation Compose · OkHttp · ViewModel + StateFlow · Coil</string>
+    <string name="sobre_base">Base: repositório PDM2627/MyNews, do professor.</string>
+</resources>
