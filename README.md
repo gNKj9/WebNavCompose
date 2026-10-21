@@ -50,6 +50,8 @@ com a mensagem da própria API — é o comportamento esperado, não uma falha d
 | `BookmarksView.kt` | lista filtrada pelos guardados |
 | `AboutView.kt` | ecrã estático |
 | `StateViews.kt` | `LoadingView`, `ErrorView`, `EmptyView` |
+| `artwork/` | PNGs fonte do ícone (`press.png` 512 é o master; os outros são reduções) |
+| `dist/` | APK de debug pronto a instalar (fora do git) |
 
 ## Requisitos → onde está
 
